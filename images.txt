@@ -1,3 +1,2 @@
-docker.io/jumpserver/lion:v5.0.0-ce
 docker.io/jumpserver/koko:v5.0.0-ce
 docker.io/jumpserver/chen:v5.0.0-ce
