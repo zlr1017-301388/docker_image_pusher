@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+docker.io/jumpserver/web:v5.0.0-ce
